@@ -13,6 +13,9 @@ For Windows users, running Move CLI can be challenging, especially if you’re o
 
 If you haven’t set up WSL yet, follow the [official guide here](https://learn.microsoft.com/en-us/windows/wsl/install) to install WSL on your Windows machine. Choose **Ubuntu** as your Linux distribution.
 
+Alternatively, watch this step-by-step video tutorial:  
+[How to Install WSL on Windows](https://www.youtube.com/watch?v=eId6K8d0v6o&t)
+
 ---
 
 ## **Installing Movement CLI**
