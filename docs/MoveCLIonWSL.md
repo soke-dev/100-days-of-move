@@ -20,7 +20,7 @@ Alternatively, watch this step-by-step video tutorial:
 
 ## **Installing Movement CLI**
 
-OOnce you have WSL set up, follow the steps below to install Move CLI using Ubuntu.
+Once you have WSL set up, follow the steps below to install Move CLI using Ubuntu.
 If you encounter any issues during the installation, refer to the [Common Errors and Solutions](#common-errors-and-solutions) section below for fixes.
 
 ---
