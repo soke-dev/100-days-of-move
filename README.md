@@ -14,4 +14,4 @@ This repo contains the code and the instructions to get started with the Move La
 |----------|---------------------------|---------------------------------|
 | Day 1    | Installing Move CLI on Windows Using WSL| [MoveCLIonWSL.md](docs/MoveCLIonWSL.md) |
 
-You can explore both the [Docs](Docs/) and [Demos](Demos/) folders for further learning and hands-on coding.
+You can explore both the [Docs](docs/) and [Demos](demos/) folders for further learning and hands-on coding.
