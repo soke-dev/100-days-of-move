@@ -1,6 +1,6 @@
 # Counter Movement
 ## Overview
-This guide provides a comprehensive overview of implementing a basic counter in Move, covering definition, initialization, and functions for incrementing and decrementing the counter. .
+This guide provides a comprehensive overview of implementing a basic counter in Move, covering definition, initialization, and functions for incrementing and decrementing the counter. 
 
 ## Prerequisites
 Ensure you have either the Movement CLI installed. If not, you can install  the Movement CLI from the [Movement CLI Installation Guide](https://movement.dev/docs/movement-cli).
