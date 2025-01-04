@@ -1,10 +1,9 @@
 # Counter Movement
 ## Overview
-This guide provides a comprehensive overview of implementing a basic counter in Move, covering definition, initialization, and functions for incrementing and decrementing the counter. 
+This guide provides a comprehensive overview of implementing a basic counter in Move, covering definition, initialization, functions for incrementing and decrementing the counter, testing and deployment to movement testnet
 
 ## Prerequisites
-Ensure you have either the Movement CLI installed. If not, you can install  the Movement CLI from the [Movement CLI Installation Guide](https://movement.dev/docs/movement-cli).
-
+Ensure you have either the Movement CLI installed. If not, you can install  the Movement CLI from the [Movement CLI Installation Guide](https://movement.dev/docs/movement-cli), or follow my instructions to [install on Windows](https://github.com/soke-dev/100-days-of-move/blob/main/docs/MoveCLIonWSL.md)
 
 ### Required Imports
 ```move
