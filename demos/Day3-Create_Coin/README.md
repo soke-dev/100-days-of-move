@@ -7,8 +7,6 @@ This guide walks through creating a custom coin on Movement network using the Mo
 
 ## Prerequisites
 
-### Installation
-## Prerequisites
 - **Movement CLI** Ensure you have Movement CLI installed. If not, you can install the Movement CLI from the [Developer portal guide](https://developer.movementnetwork.xyz/learning-paths/basic-concepts/01-install-movement-cli), or follow my instructions to [install on Windows](https://github.com/soke-dev/100-days-of-move/blob/main/docs/MoveCLIonWSL.md)
 
 ---
