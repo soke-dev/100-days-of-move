@@ -18,8 +18,8 @@ Before writing the module, you need to set up a folder and initialize it for Mov
 ### 1. Create a Project Folder
 Create a new folder for your project and navigate into it:
 ```bash
-mkdir goodcoin_project
-cd goodcoin_project
+mkdir move_coin
+cd move_coin
 ```
 
 ### 2. Initialize the Move Project
