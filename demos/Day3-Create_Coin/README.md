@@ -268,6 +268,7 @@ movement move run --function-id <your_address_here>::goodcoin::mint --args addre
 
 ## Wallet Balance
 After minting, verify the balance of GoodCoin in the wallet:
+
 ![Wallet Screenshot](./screenshots/wallet.png)
 
 ### Address Format for Custom Coins
