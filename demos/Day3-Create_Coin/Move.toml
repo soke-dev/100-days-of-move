@@ -1,0 +1,13 @@
+[package]
+name = 'coin'
+version = '1.0.0'
+upgrade_policy = "compatible"
+
+[dependencies.AptosFramework]
+git = 'https://github.com/aptos-labs/aptos-core.git'
+rev = 'main'
+subdir = 'aptos-move/framework/aptos-framework'
+
+[addresses]
+admin = "" // your movement wallet addresses
+coin = "" // your movement wallet addresses

@@ -1,0 +1,9 @@
+---
+profiles:
+  default:
+    network: Custom
+    private_key: "" 
+    public_key: ""
+    account: 
+    rest_url: "https://aptos.testnet.porto.movementlabs.xyz/v1"
+    faucet_url: "https://fund.testnet.porto.movementlabs.xyz/"
