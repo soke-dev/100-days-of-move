@@ -278,9 +278,9 @@ The custom address for interacting with the coin follows this structure:
 ```
 For **GoodCoin**, the address will look like this:
 ```plaintext
-0x<your_address_here>::Goodcoin::GoodCoin
+0x<your_address_here>::goodcoin::GoodCoin
 ```
 Replace `<your_address_here>` with the actual address where the module is deployed. For example, in this case:
 ```plaintext
-0xa372fb028ec98942fd42e2d706eb451ac37281216597c8ad0ed5d5939c954938::Goodcoin::GoodCoin
+0xa372fb028ec98942fd42e2d706eb451ac37281216597c8ad0ed5d5939c954938::goodcoin::GoodCoin
 ```
