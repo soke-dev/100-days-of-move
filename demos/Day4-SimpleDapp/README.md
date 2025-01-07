@@ -1,4 +1,4 @@
-# GMOVE Message Signing on Movement Porto with Razor Wallet Kit
+# GMOVE Message Signing on Movement network with Razor Wallet Kit
 
 This **tutorial** guides you through building a simple React DApp that:
 
