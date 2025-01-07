@@ -1,4 +1,4 @@
-# Simple Dapp on Movement
+# Simple Dapp on Movement network
 
 This **tutorial** guides you through building a simple React DApp that:
 
