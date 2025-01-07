@@ -1,8 +1,8 @@
-# GMOVE Message Signing on Movement network with Razor Wallet Kit
+# Simple Dapp on Movement
 
 This **tutorial** guides you through building a simple React DApp that:
 
-1. Uses **Razor Wallet Kit** to connect to an Movement wallet.  
+1. Uses **Razor Wallet Kit** to connect to a Movement network wallet.  
 2. Displays wallet status and account info.  
 3. **Signs** a custom message (e.g., `"GMOVE"`)
 
@@ -32,7 +32,7 @@ This **tutorial** guides you through building a simple React DApp that:
 
 - **Node.js** (v14+) and **npm** (or Yarn).  
 - Basic knowledge of React and modern JavaScript.  
-- An **Movement wallet** installed in your browser (e.g., Razor Wallet, Nightly, etc.).
+- A **Movement wallet** installed in your browser (e.g., Razor Wallet, Nightly, etc.).
 
 ---
 
