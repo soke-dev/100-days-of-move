@@ -32,7 +32,7 @@ This **tutorial** guides you through building a simple React DApp that:
 
 - **Node.js** (v14+) and **npm** (or Yarn).  
 - Basic knowledge of React and modern JavaScript.  
-- A **Movement wallet** installed in your browser (e.g., Razor Wallet, Nightly, etc.).
+- A **Movement network supported wallet**  installed in your browser (e.g., Razor Wallet, Nightly, etc.).
 
 ---
 
