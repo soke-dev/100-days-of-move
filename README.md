@@ -18,7 +18,8 @@ This repo contains the code and the instructions to get started with the Move La
 | Day 4   | Simple Sign Message Dapp, Connect Wallet| [documentation](demos/Day4-SimpleDapp/README.md) |
 | Day 5   | Simple Dapp, Todo-list| [documentation](demos/Day5-Todolist_Dapp/README.md) |
 | Day 6   | Movement Digital Asset Standard| [documentation](demos/Day6-MovementDigitalAssetStandard/README.md) |
-| Day 9   | Create & Mint NFT | [documentation](demos/Day7-MintNFT/README.md) |
+| Day 7   | Create & Mint NFT | [documentation](demos/Day7-MintNFT/README.md) |
+| Day 8   | Interacting with Move Contracts Using the Aptos Ts SDK| [documentation](docs/AptosSDK.md) |
 
 
 You can explore both the [Docs](docs/) and [Demos](demos/) folders for further learning and hands-on coding.
