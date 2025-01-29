@@ -20,6 +20,7 @@ This repo contains the code and the instructions to get started with the Move La
 | Day 6   | Movement Digital Asset Standard| [documentation](demos/Day6-MovementDigitalAssetStandard/README.md) |
 | Day 7   | Create & Mint NFT | [documentation](demos/Day7-MintNFT/README.md) |
 | Day 8   | Interacting with Move Contracts Using the Aptos Ts SDK| [documentation](docs/AptosSDK.md) |
+| Day 9   | Building on Movement with Templates| [documentation](docs/MoveTemplates.md) |
 
 
 You can explore both the [Docs](docs/) and [Demos](demos/) folders for further learning and hands-on coding.
