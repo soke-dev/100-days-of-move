@@ -21,6 +21,7 @@ This repo contains the code and the instructions to get started with the Move La
 | Day 7   | Create & Mint NFT | [documentation](demos/Day7-MintNFT/README.md) |
 | Day 8   | Interacting with Move Contracts Using the Aptos Ts SDK| [documentation](docs/AptosSDK.md) |
 | Day 9   | Building on Movement with Templates| [documentation](docs/MoveTemplates.md) |
+| Day 10  | Movemtnt mAINia | Move AI | [intro](https://x.com/Soke_Decentra/status/1886878924497371432) |
 
 
 You can explore both the [Docs](docs/) and [Demos](demos/) folders for further learning and hands-on coding.
