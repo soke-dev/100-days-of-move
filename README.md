@@ -24,6 +24,7 @@ This repo contains the code and the instructions to get started with the Move La
 | Day 10  | Movemtnt mAINia, Move AI | [intro](https://x.com/Soke_Decentra/status/1886878924497371432) |
 | Day 11  | Movemtnt mAINia, Move AI | [Move AI](https://x.com/Soke_Decentra/status/1887899133429637289) |
 | Day 12-15  | Move mAInia Hackathon Update! | [Move AI](https://x.com/Soke_Decentra/status/1889795089121018113) |
+| Day 15-20  | Movemtnt mAINia, Move AI | [Updates](https://x.com/Soke_Decentra/status/1891038833929547850) |
 
 
 
