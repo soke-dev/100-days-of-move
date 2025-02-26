@@ -23,6 +23,8 @@ This repo contains the code and the instructions to get started with the Move La
 | Day 9   | Building on Movement with Templates| [documentation](docs/MoveTemplates.md) |
 | Day 10  | Movemtnt mAINia, Move AI | [intro](https://x.com/Soke_Decentra/status/1886878924497371432) |
 | Day 11  | Movemtnt mAINia, Move AI | [Move AI](https://x.com/Soke_Decentra/status/1887899133429637289) |
+| Day 12-15  | Move mAInia Hackathon Update! | [Move AI](https://x.com/Soke_Decentra/status/1889795089121018113) |
+
 
 
 You can explore both the [Docs](docs/) and [Demos](demos/) folders for further learning and hands-on coding.
