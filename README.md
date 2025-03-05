@@ -30,7 +30,7 @@ This repo contains the code and the instructions to get started with the Move La
 | Day 23  | Movemtnt mAINia, Move AI | [Move AI](https://x.com/Soke_Decentra/status/1892579398806560887) |
 | Day 24  | Movemtnt mAINia, Move AI | [Move AI](https://x.com/Soke_Decentra/status/1893227125798298007) |
 | Day 25   | Movemtnt mAINia, Move AI | [Move AI](https://x.com/Soke_Decentra/status/1894682053045567632) |
-| Day 26  | Movemtnt Mainnet | [Move Mainnet](https://x.com/Soke_Decentra/status/1897170852732420519) |
+| Day 26  | Movement Mainnet | [Move Mainnet](https://x.com/Soke_Decentra/status/1897170852732420519) |
 
 
 
